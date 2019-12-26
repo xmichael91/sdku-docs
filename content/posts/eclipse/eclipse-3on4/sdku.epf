@@ -1,0 +1,5 @@
+/instance/org.eclipse.core.resources/encoding=UTF-8
+/instance/org.eclipse.core.runtime/line.separator=\n
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=m_
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=a_
+file_export_version=3.0
