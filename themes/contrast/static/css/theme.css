@@ -95,13 +95,16 @@ pre {
   overflow-x: auto;
 }
 
-p code {
-  font-size: .9em;
+p code, ul code {
   background: #94949426;
   opacity: .75;
   border-radius: 2px;
   margin: 0 .1em;
   padding: .2em .4em;
+}
+
+code {
+  color: #830404;
 }
 
 body > header {
