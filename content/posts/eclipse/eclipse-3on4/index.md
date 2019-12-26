@@ -22,7 +22,7 @@ Eclipse 4.x требует для запуска **JVM 8 64-бит** или бо
 
 - [VisualVM](https://visualvm.github.io/) распространяется отдельно
 - Устанавливаемая версия JVM используется только для работы Eclipse IDE и не влияет на компиляцию и запуск разрабатываемого Продукта
-- Если в вашей системе установлено несколько версий JVM и Eclipse отказывается запускаться, укажите путь к нужной JVM в `eclipse.ini` [(пример)](https://wiki.eclipse.org/Eclipse.ini#-vm_value:_Windows_Example)
+- Если в вашей системе установлено несколько версий JVM, и Eclipse отказывается запускаться, укажите путь к нужной JVM в `eclipse.ini` [(пример)](https://wiki.eclipse.org/Eclipse.ini#-vm_value:_Windows_Example)
 
 ### Eclipse IDE
 
